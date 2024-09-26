@@ -35,7 +35,8 @@ Update 11.08.2024
 Hello from Novoe Stupino  
 new line  
 Hello from Dubna  
-Hello from Novosibirsk  
+Hello from Novosibirsk
+Hello from Omsk
 Hey there!  
 Hello from Belgorod!  
 Hello from Kupchino  
